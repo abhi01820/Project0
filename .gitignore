@@ -26,3 +26,5 @@ dist-ssr
 # Excluded documentation from GitHub
 README.md
 SUBMISSION_REPORT.md
+
+.vercel
